@@ -20,3 +20,4 @@ MySQL database server running locally or accessible via a remote connection.
 Installation
 Clone the repository:
 
+https://github.com/AkramCodeer/employeeManagement.git
